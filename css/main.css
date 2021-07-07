@@ -648,6 +648,15 @@ header figure {
         margin-bottom: 0;
     }
 
+    footer .social-icons {
+      width: 12.5em;
+      justify-content: space-between;
+    }
+
+    footer .copyright {
+      width: 100%;
+    }
+
 
   /*******About Page Tablet Styles******/
 
@@ -728,6 +737,9 @@ header figure {
        .reviews article div {
            width: 42%;
        }
+footer h4 {
+  font-size: 1.875em;
+}
 
 /* ==========================================================================
 About Page
